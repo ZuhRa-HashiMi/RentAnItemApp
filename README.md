@@ -30,7 +30,7 @@
 
 # 📖 RENT A HOUSE <a name="about-project"></a>
 
-**RENT A HOUSE** is a react application used to rent and buy houses and uses rails api for authentication and data storage.
+**RENT A HOUSE** is a React application designed to facilitate the rental and purchase of houses. It provides users with a platform to browse, search, and view details of available houses for rent or sale. The application leverages the power of a Rails API for authentication and data storage, ensuring secure user interactions and efficient data manag.
 
 ## 🛠 Built With <a name="built-with"></a>
 
